@@ -55,21 +55,21 @@ const guohu7777 = {
 **Core**
 
 <img
-  src="https://skillicons.dev/icons?i=ts,js,nodejs,vue,react,nextjs,python&theme=dark&perline=7"
+  src="https://skillicons.dev/icons?i=java,nodejs,vue,spring,fastapi,mysql,postgres,grafana,python&theme=dark&perline=7"
   alt="Core"
 />
 
 **Desktop**
 
 <img
-  src="https://skillicons.dev/icons?i=electron,tauri,androidstudio&theme=dark&perline=3"
+  src="https://skillicons.dev/icons?i=electron,flutter,androidstudio&theme=dark&perline=3"
   alt="Desktop"
 />
 
 **Data & Infra**
 
 <img
-  src="https://skillicons.dev/icons?i=postgres,redis,docker,githubactions,vercel,cloudflare&theme=dark&perline=6"
+  src="https://skillicons.dev/icons?i=postgres,redis,vue,docker,ubuntu,cloudflare&theme=dark&perline=6"
   alt="Data & Infra"
 />
 
@@ -80,6 +80,12 @@ const guohu7777 = {
   alt="Tooling"
 />
 
+**IDE**
+
+<img
+  src="https://skillicons.dev/icons?i=vscode,pycharm,idea&theme=dark"
+  alt="IDE"
+/>
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
